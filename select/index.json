@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "魔法少女とチョコレゐト",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-01T09:04:05.504972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/01_魔法少女とチョコレゐト_ピノキオピー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_魔法少女とチョコレゐト_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_02_魔法少女とチョコレゐト_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_03_魔法少女とチョコレゐト_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_04_魔法少女とチョコレゐト_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "魔法少女とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_05_魔法少女とチョコレゐト_ピノキオピー.txt"
+    }
+  ]
+}
